@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+<head>
+    <meta name="description" content="Online Shopping, kitchen  Supplies, electronics &amp; filter, , Furniture, spoon, plates, knife, blender - kitchenrite" />
+<meta name="keywords" content="Online Shopping, kitchen Supplies, electronics &amp; filter, Furniture, spoon, plates, knife, blender - kitchenrite" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+     <title>kitchenrite &#8211; Everything your kitchen deserves</title>
+     <div id="main-container">
+          <div id="sub-container">
+              <div id="row">
+                  <img src="image 6.jpg" width="200" height="200" > 
+                  <h1>kitchenrite</h1>
+                  <nav id="myNavbar"
+                  class="navbar navbar-defaultnavbar-inverse-fixed-top" role="navigation"
+                  <!-- Brand and toggle get grouped for better mobile display-->
+              </div class=container
+                  <nav id="topnav">
+                      <ul>
+                          <a href="#home">Home</a>
+                          <a href="#home">About</a>
+                          <a href="#home">Profile</a>
+                          <a href="#home">Contact</a>
+                      </ul>
+                  </nav>
+                  <input type="search" name="" id="" placeholder="Search">
+                  <button>
+                      submit  
+                </button>
+            </div>
+        
